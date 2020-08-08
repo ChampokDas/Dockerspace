@@ -9,8 +9,10 @@ with other *Nix systems.
 # Requirements
 
 Docker v19.03+
+
 Bash
-Linux systems
+
+Linux system
 
 # Future
 I may try some stuff on macOS, but I can't promise that this will work since
